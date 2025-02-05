@@ -2,6 +2,10 @@
 
  - A simple and interactive Snake Game built using Python's Tkinter library, where the player controls the snake to collect food and avoid colliding with the walls or its own body.
 
+
+https://github.com/user-attachments/assets/06611b0a-d3a1-4dad-83c0-d357548de7a2
+
+
 ## Features:
 - **Movement:** The player can move the snake in four directions (Up, Down, Left, Right).
 - **Game Over:** The game ends when the snake collides with the wall or itself.
